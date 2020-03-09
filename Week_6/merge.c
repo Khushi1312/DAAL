@@ -57,6 +57,7 @@ void main()
 {
 	for(int k=0;k<5;k++)
 	{
+        c=0;
 		int n;
 		scanf("%d",&n);
 		printf("%d ",n );
